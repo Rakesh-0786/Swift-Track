@@ -87,7 +87,7 @@ Swift-Track/
 
 ## ✨ Demo
 
-You can check out the deployed version of the app [here](https://swift-track.vercel.app/).
+You can check out the deployed version of the app [here](https://swift-track-taupe.vercel.app/login).
 
 ## 📑 Features in Detail
 
